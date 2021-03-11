@@ -72,14 +72,14 @@ To install Angular on your local system, you need the following:
     
     ---
     
-   To run the backend service need to have IDE's like Eclips [www.eclipse.org](https://www.eclipse.org/eclipseide/) 
-   or Spring Tool Suite [spring.io](https://spring.io/tools) installed in your system.
+   To run the backend service need to have IDE's like **Eclips [www.eclipse.org](https://www.eclipse.org/eclipseide/) 
+   or **Spring Tool Suite [spring.io](https://spring.io/tools)** installed in your system.
    
-     * open crud-backend-module workspace in STS/Eclips.
-     * select crud-backend-module and run as Spring Boot App
+     * open **crud-backend-module** workspace in **STS/Eclips**.
+     * select **crud-backend-module** and run as **Spring Boot App**
    
    Now the crud-backend-module will run on the port 8080, you can change the port by setting 
-   server.port=9090 inside application.properties inside src/main/resources.
+   **server.port=9090** inside application.properties inside **src/main/resources**.
     
    
    
