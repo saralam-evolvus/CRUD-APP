@@ -77,9 +77,11 @@ To install Angular on your local system, you need the following:
      npm install --save bootstrap
      ```
      2.Configuring the bootstrap in style.css file
+     
        >> copy the path of **bootstrap.min.css** inside node_modules
        >> /node_modules/bootstrap/dist/css/bootstrap.min.css
        >>inside styles.css file import bootstrap.min.css **@import "~bootstrap/dist/css/bootstrap.min.css";**
+     
      
      3.Now you are able to access the bootstrap style properties
     
