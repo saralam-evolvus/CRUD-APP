@@ -27,10 +27,10 @@ To install Angular on your local system, you need the following:
    
    Run the below command in terminal to check the npm version
    
-          ```
-          npm -v
-   
-          ```
+   ```      
+   npm -v
+   ```
+        
 * ### Install the Angular CLI
 \
    To install the Angular CLI open the terminal and run the below command
