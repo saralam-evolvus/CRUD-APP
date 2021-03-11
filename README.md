@@ -10,27 +10,30 @@ To install Angular on your local system, you need the following:
 
 * ### Node.js
 \
-   Run the below command in terminal to check the node version.
-   ```
-   node -v
-   ```
+      Run the below command in terminal to check the node version.
+        ```
+        node -v
+         ```
 
-   Find the below link for more information on installing Node.js
+      Find the below link for more information on installing Node.js
 
-   [https://nodejs.org/en/](https://nodejs.org/en/download/)
+      [https://nodejs.org/en/](https://nodejs.org/en/download/)
   
 * ### npm-package-manager
  \
-   Angular, the Angular CLI, and Angular applications depend on npm packages for many features and functions. 
+       Angular, the Angular CLI, and Angular applications depend on npm packages for many features and functions. 
    
-   To download and install npm packages : [npm-package-manager](https://docs.npmjs.com/cli/v7/commands/npm-install)
+       To download and install npm packages : [npm-package-manager](https://docs.npmjs.com/cli/v7/commands/npm-install)
    
-   Run the below command in terminal to check the npm version
+        Run the below command in terminal to check the npm version
    
-   ```
-   npm -v
+          ```
+          npm -v
    
-   ```
+          ```
+* ### Install the Angular CLI
+\
+   
    
    
   
