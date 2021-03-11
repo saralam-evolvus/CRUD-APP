@@ -35,7 +35,7 @@ To install Angular on your local system, you need the following:
         
 * ### Install the Angular CLI
 \
-   To install the Angular CLI open the terminal and run the below command
+      To install the Angular CLI open the terminal and run the below command
    
    ```
    npm install -g @angular/cli
