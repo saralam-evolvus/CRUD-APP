@@ -8,7 +8,7 @@ This application is to demonstrate create, read, update and delete the employee 
 
 To install Angular on your local system, you need the following:
 
-* ### Node.js\
+* ### Node.js
 \
    Run the below command in terminal to check the node version.
    ```
@@ -19,7 +19,7 @@ To install Angular on your local system, you need the following:
 
    [https://nodejs.org/en/](https://nodejs.org/en/download/)
   
-* ### npm-package-manager\
+* ### npm-package-manager
  \
    Angular, the Angular CLI, and Angular applications depend on npm packages for many features and functions. 
    
