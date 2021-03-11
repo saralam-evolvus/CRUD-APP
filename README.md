@@ -1,8 +1,6 @@
 # Angular-Spring-Boot-CRUD-Full-Stack-Application
 \
-\
 This application is to demonstrate create, read, update and delete the employee details using angular and spring-boot.
-\
 \
 ## Setting up the local environment and workspace
 \
@@ -19,7 +17,7 @@ To install Angular on your local system, you need the following:
 
 Find the below link for more information on installing Node.js
 
-[node](https://nodejs.org/en/download/)
+[https://nodejs.org/en/](https://nodejs.org/en/download/)
   
   
    
