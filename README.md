@@ -17,7 +17,7 @@ To install Angular on your local system, you need the following:
 
    Find the below link for more information on installing Node.js
 
-      [https://nodejs.org/en/](https://nodejs.org/en/download/)
+   [https://nodejs.org/en/](https://nodejs.org/en/download/)
   
 * ### npm-package-manager
  \
