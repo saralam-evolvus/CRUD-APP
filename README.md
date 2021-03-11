@@ -49,7 +49,7 @@ To install Angular on your local system, you need the following:
      ng new crud-ui-module
      ```
   
-   (note: ng new is used create the new project. here no need create the new project.)
+   (**note:** ng new is used create the new project. here no need create the new project.)
    
 * ### Run the application
 
