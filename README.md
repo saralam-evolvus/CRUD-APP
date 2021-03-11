@@ -40,6 +40,39 @@ To install Angular on your local system, you need the following:
    ```
    npm install -g @angular/cli
    ```
+
+* ### Create a workspace and initial application
+
+     Run the CLI command ng new and provide the name project name.
+     
+     ```
+     ng new crud-ui-module
+     ```
+  
+   (note: ng new is used create the new project. here no need create the new project.)
+   
+* ### Run the application
+
+     1.Navigate to the workspace folder, such as crud-ui-module.
+     \
+     2.Run the following command:
+     \
+     ```
+     cd crud-ui-module
+     
+     ng serve 
+     ```
+    Now  crud-ui-module is running  in the port 4200 by defalut , you can change the port by  using the below command
+    
+    ```
+    ng serve --port 4202
+    ```
+    In browser you have to give [http://localhost:4200](http://localhost:4200/) to access the UI.
+    
+    
+    ---
+    
+   
    
    
   
