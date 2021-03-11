@@ -11,10 +11,10 @@ To install Angular on your local system, you need the following:
 * ### Node.js
 
      Run the below command in terminal to check the node version.
-      
-        ```
+ 
+ ```
         node -v
-        ```
+ ```
 
    Find the below link for more information on installing Node.js
 
